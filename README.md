@@ -1,6 +1,6 @@
 
-What it is
-==========
+Reading DYMO M5 data with Gopher Interface Devices
+==================================================
 
 This is a smal Go program reading data from a DYMO M5 scale and prints out the number of grams on the console.
 
